@@ -4,9 +4,9 @@ navbar_name: "Mingge Lu"
 
 positions:
 - logo: /assets/images/badges/ustcblue.jpg  # Logo is optional
-  name: Master Student in CS @ USTC
+  name: Master Student in Computer Science @ USTC
 - logo: /assets/images/badges/ustcblue.jpg  # Logo is optional
-  name: B.Eng. in AI, School of the Gifted Young @ USTC
+  name: B.Eng. in AI Talent Program, School of the Gifted Young @ USTC
 
 
 email: "mingge@mail.ustc.edu.cn"
@@ -23,11 +23,11 @@ orcid: 0009-0001-0682-3134
 short_bio_text_justify: false
 short_bio: 
   I am a Master student in Computer Science at University of Science and Technology of China (USTC), under the supervision of Prof. Guangzhong Sun and Prof. Jingwei Sun. I received my Bachelor degree in the Talent Program in AI (Honor) from School of the Gifted Young, USTC in 2024. <br>
-  My research interests lie broadly in designing efficient LLM Inference systems, including model compression algorithms (sparsification, quantization), and high performance sparse GPU kernels leveraging tensor core architecture.
+  My research interests lie broadly in designing efficient LLM Inference systems, including model compression algorithms (sparsification, quantization), sparsity in LLMs (weight, activation) and high performance sparse GPU kernels leveraging tensor cores.
 
 portrait_url: /assets/images/photos/lmg.jpg
 portrait_caption: >-
-  Photo by Jingwei Sun at ADA-LAB @ USTC.
+  Photo by Prof. Jingwei Sun at ADA-LAB @ USTC.
 
 education:
 - name: University of Science and Technology of China
@@ -37,7 +37,7 @@ education:
   date: Sep. 2024 - present
 - name: University of Science and Technology of China
   logo: /assets/images/badges/ustcblue.jpg
-  position: B.Eng. in Artificial Intelligence (Honor), School of the Gifted Young
+  position: B.Eng. in AI Talent Program (Honor), School of the Gifted Young
   date: Sep. 2020 - Jul. 2024
 
 # experience:
@@ -52,6 +52,6 @@ awards:
 - name: Master Student Academic Scholarship
   date: 2024, 2025
 - name: Outstanding Student Scholarship Silver Award
-  date: 2022, 2023
+  date: 2022
 - name: Zhang Zongzhi Sci-Tech Scholarship
   date: 2021
