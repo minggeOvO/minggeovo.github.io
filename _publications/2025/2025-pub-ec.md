@@ -1,8 +1,8 @@
 ---
-title:          "Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage"
-date:           2025-07-16
+title:          "EC-SpMV: Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage"
+date:           2026-08-06
 selected:       true
-pub:            "arXiv:2507.12205"
+pub:            "ACM Transactions on Architecture and Code Optimization (TACO), 2026"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -14,5 +14,5 @@ cover:          /assets/images/covers/ec.png
 authors:
   - Junqing Lin, Jingwei Sun, <strong>Mingge Lu</strong>, Guangzhong Sun
 links:
-  Arxiv: https://arxiv.org/abs/2507.12205
+  Link: https://dl.acm.org/doi/full/10.1145/3821427
 ---
